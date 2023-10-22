@@ -1,0 +1,8 @@
+connectionStrings:
+  qhatuConnection: server=local-mysql; database=qhatu; port=3306; user=root; password=NewHorizons_2023@
+rabbitMqSettings:
+  hostName: rabbitmq-muchik
+  username: usr_admin
+  password: NewHorizons_2023
+qhatuServices:
+  commonService: http://nh.qhatu.common.presentation.api
