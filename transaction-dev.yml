@@ -1,0 +1,8 @@
+connectionStrings:
+  qhatuConnection: Data Source=local-mssql; Initial Catalog=db_transaction; user id=sa; password=NewHorizons_2023@
+rabbitMqSettings:
+  hostName: rabbitmq-muchik
+  username: usr_admin
+  password: NewHorizons_2023
+qhatuServices:
+  commonService: http://market.muchik.transaction.api
